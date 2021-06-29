@@ -1,0 +1,14 @@
+D:\Microservicios\Proyecto1\Proyecto1\bin\Debug\netcoreapp2.1\Proyecto1.deps.json
+D:\Microservicios\Proyecto1\Proyecto1\bin\Debug\netcoreapp2.1\Proyecto1.runtimeconfig.json
+D:\Microservicios\Proyecto1\Proyecto1\bin\Debug\netcoreapp2.1\Proyecto1.runtimeconfig.dev.json
+D:\Microservicios\Proyecto1\Proyecto1\bin\Debug\netcoreapp2.1\Proyecto1.dll
+D:\Microservicios\Proyecto1\Proyecto1\obj\Debug\netcoreapp2.1\Proyecto1.csprojAssemblyReference.cache
+D:\Microservicios\Proyecto1\Proyecto1\obj\Debug\netcoreapp2.1\Proyecto1.csproj.CoreCompileInputs.cache
+D:\Microservicios\Proyecto1\Proyecto1\obj\Debug\netcoreapp2.1\Proyecto1.RazorAssemblyInfo.cache
+D:\Microservicios\Proyecto1\Proyecto1\obj\Debug\netcoreapp2.1\Proyecto1.RazorAssemblyInfo.cs
+D:\Microservicios\Proyecto1\Proyecto1\obj\Debug\netcoreapp2.1\Proyecto1.AssemblyInfoInputs.cache
+D:\Microservicios\Proyecto1\Proyecto1\obj\Debug\netcoreapp2.1\Proyecto1.AssemblyInfo.cs
+D:\Microservicios\Proyecto1\Proyecto1\obj\Debug\netcoreapp2.1\Proyecto1.RazorTargetAssemblyInfo.cache
+D:\Microservicios\Proyecto1\Proyecto1\bin\Debug\netcoreapp2.1\Proyecto1.pdb
+D:\Microservicios\Proyecto1\Proyecto1\obj\Debug\netcoreapp2.1\Proyecto1.dll
+D:\Microservicios\Proyecto1\Proyecto1\obj\Debug\netcoreapp2.1\Proyecto1.pdb
